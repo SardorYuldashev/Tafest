@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Roboto-Bold-700';
+    src: url('../fonts/Roboto/Roboto-Bold-700.ttf');   
+}
+
+@font-face {
+    font-family: 'Roboto-Medium-500';
+    src: url('../fonts/Roboto/Roboto-Medium-500.ttf');    
+}
+
+@font-face {
+    font-family: 'Roboto-Regular-400';
+    src: url('../fonts/Roboto/Roboto-Regular-400.ttf');    
+}
+
+@font-face {
+    font-family: 'Comfortaa-Bold-700';
+    src: url('../fonts/Comforta/Comfortaa-Bold-700.ttf');    
+}
